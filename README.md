@@ -5,12 +5,7 @@ Collection of cryptographic primitives usable in Solidity smart contracts.
 **Currently implemented:**
 - Binary Search in Solidity
 - Merkle Dispute Handler
-
-**In development:**
-- Gas Estimator (Works already for contracts with less than 7 functions)
-
-**Planned:**
-- WOTS+ verification contract
+- Gas Estimator (works for contracts with less than 7 functions)
 
 ## Existing libraries
 
